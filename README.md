@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hufranke
+- 👋 Hi, I’m @henk
 - 👀 I’m interested in Web Development in general
 - 🌱 I’m currently learning Web Dev, React
 - 💞️ I’m looking to collaborate on nothing, still learning..
